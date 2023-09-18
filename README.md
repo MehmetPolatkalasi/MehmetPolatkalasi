@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Spotify Danceability Playlist](https://github.com/Tuxedomask95/spotify_danceability)
 
-- 🌱 I’m currently learning **NLP, Deep Learning**
+- 🌱 I’m currently learning **Data Science, NLP, Deep Learning**
 
 - 💬 Ask me about **Machine Learning**
 
