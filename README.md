@@ -14,7 +14,7 @@ Former Air Defense Systems Technician transitioning into Data Science & Machine 
 
 - 📊 Focused on **Data Analytics and Applied ML Projects**
 
-- 📫 How to reach me: **mehmetpolatkalasi@gmail.com**
+- 📫 How to reach me: **mehmetpolatkalesi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
