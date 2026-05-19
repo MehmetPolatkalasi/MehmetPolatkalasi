@@ -36,7 +36,7 @@ Former Air Defense Systems Technician transitioning into Data Science & Machine 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 </a>
 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+<a href="https://www.pngkey.com/detail/u2q8y3w7a9a9w7u2_flask-logo-flask-python-icon/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 </a>
 
